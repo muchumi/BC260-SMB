@@ -1,2 +1,2 @@
-# BC260-SalesErp
+# BC260-SMB
 Dynamics 365 Business Central project for Small and Medium Businesses.
