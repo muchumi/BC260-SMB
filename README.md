@@ -90,6 +90,7 @@ The system covers end-to-end workflows across sales, finance, procurement, and i
    git clone https://github.com/muchumi/BC260-SMB.git
 
 # Recommended Repository Structure
+
 business-central-erp/
 │
 ├── src/
@@ -124,5 +125,22 @@ business-central-erp/
 │
 ├── README.md
 └── LICENSE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
