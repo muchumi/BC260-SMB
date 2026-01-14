@@ -91,6 +91,7 @@ The system covers end-to-end workflows across sales, finance, procurement, and i
 
 # Recommended Repository Structure
 
+text
 business-central-erp/
 │
 ├── src/
